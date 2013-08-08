@@ -8,7 +8,8 @@ Maze Generator for Node.js
   
   Or...
   
-
+    $ git clone http://
+    
 ## API Documentation
 
 
